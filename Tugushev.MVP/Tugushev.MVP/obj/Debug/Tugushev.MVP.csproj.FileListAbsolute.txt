@@ -1,0 +1,10 @@
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\bin\Debug\Tugushev.MVP.exe.config
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\bin\Debug\Tugushev.MVP.exe
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\bin\Debug\Tugushev.MVP.pdb
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\obj\Debug\Tugushev.MVP.csprojAssemblyReference.cache
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\obj\Debug\Tugushev.MVP.SearchView.resources
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\obj\Debug\Tugushev.MVP.Properties.Resources.resources
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\obj\Debug\Tugushev.MVP.csproj.GenerateResource.cache
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\obj\Debug\Tugushev.MVP.csproj.CoreCompileInputs.cache
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\obj\Debug\Tugushev.MVP.exe
+C:\REPOSITORY\mvp_example\Tugushev.MVP\Tugushev.MVP\obj\Debug\Tugushev.MVP.pdb
